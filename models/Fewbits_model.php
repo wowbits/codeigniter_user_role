@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-/**
+/***
  * Class Ion Auth Model
  * @property Bcrypt $bcrypt The Bcrypt library
  * @property Ion_auth $ion_auth The Ion_auth library
